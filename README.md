@@ -2,7 +2,7 @@
 
 This GitHub presents projects that I have been working on.  It demonstrates some of the programming languages that I use.  It is meant to convey some of my skills as a software developer, but is by no means totally comprehensive.  Some of these projects are complete executable programs of some utility, some are only code snippets demonstrating knowledge of a certain aspect of software development.
 
-I will be adding and changing these projects daily.
+I will be adding and changing these projects regularly.
 
 If you have received my resume as part of a job application, hopefully you will find this GitHub useful as part of your selection process.
 
